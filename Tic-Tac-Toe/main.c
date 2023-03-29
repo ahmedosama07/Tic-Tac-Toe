@@ -17,7 +17,8 @@ int main()
     char choice2;
     int p1;
     int p2;
-    int i, j;
+    int i = 0;
+    int j = 0;;
     int position;
     int move = 1;
     int x = 0;
@@ -134,6 +135,7 @@ int main()
                 printf("Place is not empty");
                 move = 1;
             }
+        }
 
             for(i = 0; i < 9; i++)
             {
