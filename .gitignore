@@ -5,3 +5,5 @@
 *.layout
 +obj/
 bin/
+Tic-Tac-Toe/bin/Debug/Tic-Tac-Toe.exe
+Tic-Tac-Toe/obj/Debug/main.o
